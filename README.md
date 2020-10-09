@@ -11,4 +11,4 @@ A collection of small Python projects.
 - Python With PDFs
 - Password Checker
 - FIFA 2019 Machine Learning
-- Tic Tac Toe
+- Iris Machine Learning
