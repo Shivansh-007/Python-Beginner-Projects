@@ -7,3 +7,8 @@ A collection of small Python projects.
 - Password Generator
 - Hangman
 - Tic Tac Toe
+- Python With Pillow
+- Python With PDFs
+- Password Checker
+- Hangman
+- Tic Tac Toe
