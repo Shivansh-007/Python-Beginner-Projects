@@ -10,5 +10,5 @@ A collection of small Python projects.
 - Python With Pillow
 - Python With PDFs
 - Password Checker
-- Hangman
+- FIFA 2019 Machine Learning
 - Tic Tac Toe
