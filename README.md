@@ -12,3 +12,5 @@ A collection of small Python projects.
 - Password Checker
 - FIFA 2019 Machine Learning
 - Iris Machine Learning
+
+Hope you enjoy them! More would be keeping up! Also Some of my projects aren't here since they are either for School Purpose or Private
